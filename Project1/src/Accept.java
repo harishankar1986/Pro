@@ -10,7 +10,7 @@ public class Accept {
 	//int num = Integer.parseInt(br.readLine());
 	//String name = br.readLine();
 	//char ch = (char)br.read();
-		
+	//Printing the statement
 		System.out.print("You Entered : " + d);
 	}
 }
