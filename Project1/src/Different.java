@@ -8,10 +8,12 @@ public class Different {
 		String str = br.readLine();
 		StringTokenizer st = new StringTokenizer(str, ",");
 		
+		//Adding the String values
 		String s1 = st.nextToken();
 		String s2 = st.nextToken();
 		String s3 = st.nextToken();
 		
+		//Triming the end space
 		s1 = s1.trim();
 		s2 = s2.trim();
 		s3 = s3.trim();
